@@ -1,0 +1,4 @@
+module CNIOOpenSSL {
+    umbrella "/Users/beleg/EchoBot/MyBot/.build/checkouts/swift-nio-ssl.git--6187023537241546438/Sources/CNIOOpenSSL/include"
+    export *
+}

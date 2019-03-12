@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/beleg/EchoBot/MyBot/.build/checkouts/crypto.git-6185683536077846480/Sources/CCryptoOpenSSL/include"
+    export *
+}
